@@ -1,4 +1,4 @@
-"""Concrete date/time and related types.
+"""Concrete date/timeand related types.
 
 See http://www.iana.org/time-zones/repository/tz-link.html for
 time zone and DST data sources.
